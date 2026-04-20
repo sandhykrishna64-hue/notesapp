@@ -4,6 +4,8 @@ import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
 
+
+// main app function
 function App() {
   const [count, setCount] = useState(0)
 
